@@ -1,5 +1,3 @@
-# CS360-Multi-Campus-WAN
-Cisco Packet Tracer project for a two-campus university WAN network.
 # CS360 Multi-Campus WAN Project
 
 This repository contains the Cisco Packet Tracer files and supporting evidence for the CS360 university multi-campus WAN project.
